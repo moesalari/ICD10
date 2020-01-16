@@ -16,6 +16,7 @@ Activate the new environment to use it --> activate py35 <br />
 -->conda install -c anaconda lxml <br />
 -->conda install -c anaconda requests<br />
 -->conda install -c anaconda pandas <br />
+<br />
 **How to run <br />**
 1-	Open Anaconda Prompt (or Command Prompt)<br />
 2-	Direct to Fetch_ICD10.py (like C:\Users\salarim\Desktop)<br />
@@ -24,3 +25,7 @@ Activate the new environment to use it --> activate py35 <br />
 5-	Type “end” to end<br />
 6-	Wait until all web pages be process  <br />
 7-	If there is no error, ICD10.csv will be saved in same place that python file is there. <br />
+<br />
+
+**Structure <br />**
+![structure](Picture/e.png)
